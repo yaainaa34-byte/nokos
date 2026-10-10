@@ -1,0 +1,9 @@
+{
+  "name": "gacha-nokos",
+  "version": "1.0.0",
+  "main": "gacha-nokos.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "axios": "^1.6.0"
+  }
+}
